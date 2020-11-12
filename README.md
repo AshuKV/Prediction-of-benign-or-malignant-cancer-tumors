@@ -1,4 +1,4 @@
-# Prediction-of-benign-or-malignant-cancer-tumors
+# Prediction of Benign or Malignant Cancer Tumors
 Prediction of benign or malignant cancer tumors Using ML
 
 ## Explaination of eigen-vectors and eigen-values and their importance:
